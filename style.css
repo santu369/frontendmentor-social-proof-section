@@ -224,8 +224,11 @@ q {
 }
 
 @media screen and (max-width: 967px) {
+  section {
+    height: auto;
+  }
   .attribution {
-    margin-top: 10rem;
+    position: relative;
   }
 }
 
@@ -252,10 +255,6 @@ q {
 
   aside {
     width: 100%;
-  }
-
-  .attribution {
-    margin-top: 20rem;
   }
 }
 
