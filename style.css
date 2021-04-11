@@ -178,7 +178,6 @@ q {
   font-size: 0.75rem;
   line-height: 20px;
   text-align: center;
-  left: 0;
   width: 100%;
 }
 
@@ -226,9 +225,6 @@ q {
 @media screen and (max-width: 967px) {
   .section {
     height: auto;
-  }
-  .attribution {
-    position: relative;
   }
 }
 
